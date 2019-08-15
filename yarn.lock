@@ -3371,10 +3371,10 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-typescript@^3.5.3:
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.3.tgz#c830f657f93f1ea846819e929092f5fe5983e977"
-  integrity sha512-ACzBtm/PhXBDId6a6sDJfroT2pOWt/oOnk4/dElG5G33ZL776N3Y6/6bKZJBFpd+b05F3Ct9qDjMeJmRWtE2/g==
+typescript@^3.7.0-dev.20190815:
+  version "3.7.0-dev.20190815"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.0-dev.20190815.tgz#de2bc9b8ef458b4c1643af1fd3b492da34184036"
+  integrity sha512-/J+3Xsf7LDs/UZCgQkydvu91pfoKdVHgo2U6WzmgRrzOsV8CU+FtdW3c7dN8ZsWUw0ZXjdT1EcRUaaEGWJ78Nw==
 
 uglify-js@^3.1.4:
   version "3.6.0"
